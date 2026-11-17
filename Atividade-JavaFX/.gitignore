@@ -1,0 +1,17 @@
+# Maven
+/target/
+
+# Banco H2 local (gerado quando a aplicação é executada)
+/data/
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
