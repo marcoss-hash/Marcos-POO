@@ -3,7 +3,6 @@
 
 Repositório destinado às atividades práticas da disciplina de Programação Orientada a Objetos (POO). 
 
-Os projetos aqui desenvolvidos baseiam-se no tema **Sistema de Gerenciamento de Biblioteca Cultural**.
 
 ## Atividades
 
